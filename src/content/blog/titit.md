@@ -2,7 +2,7 @@
 title: "titit"
 meta_title: "meta"
 description: "dec"
-date: Wed Jan 28 2026 12:12:00 GMT+0700 (Waktu Indonesia Barat)
+date: 2026-01-28T05:12:00Z
 image: ""
 categories: ["apaan"]
 author: "krisna"
